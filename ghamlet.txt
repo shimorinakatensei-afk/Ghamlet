@@ -1,0 +1,7 @@
+M|roma1|hey !
+C|anonymous|hey
+E
+M|roma1|admins : 1)dima1 2)dera 2.1)dera1 (NOTE that with great power comes great responsibility and you may be banned if we notice unacceptibale behaviour)
+C|dera|alright roma1
+C|roma1|:-)
+E
